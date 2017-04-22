@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import KanbanBoard from './KanbanBoard';
-import styles from './kanban.css';
+import './kanban.css';
 
 let cardsList = [
     {
