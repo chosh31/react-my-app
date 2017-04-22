@@ -73,6 +73,7 @@ ul {
     display: inline-block;
     width: 1em;
     content: '▶';
+    line-height: 1;
 }
 
 .card__title--is-open:before {
